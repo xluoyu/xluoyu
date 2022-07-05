@@ -1,5 +1,7 @@
 <h2>Hey, Look here! 👋</h2>
 
+<img src="https://giffiles.alphacoders.com/398/3987.gif" width="200" align="right"></img>
+
 * 🍑 Hi, You can call me xluoyu or rabbit.
 
 * 🍉 I‘m now working in Hangzhou, China.
@@ -11,6 +13,7 @@
 * 🍰 Email: llzz0895@163.com
 
 * 🍭 Yes, I like to eat these things
+
 
 
 <h2 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
