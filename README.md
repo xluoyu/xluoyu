@@ -1,9 +1,19 @@
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=xluoyu&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xluoyu&theme=radical">
-</p>
+<h2>Hey, Look here! 👋</h2>
 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+* 🍑 Hi, You can call me xluoyu or rabbit.
+
+* 🍉 I‘m now working in Hangzhou, China.
+
+* 🍗 You can try to contact me, but I may not find it.
+
+* 🍪 Wechat: moyu_12138
+
+* 🍰 Email: llzz0895@163.com
+
+* 🍭 Yes, I like to eat these things
+
+
+<h2 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
