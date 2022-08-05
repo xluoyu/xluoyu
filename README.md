@@ -12,9 +12,7 @@
 
 * 🍰 Email: llzz0895@163.com
 
-* 🍭 Yes, I like to eat these things
-
-* 🍟 project： [lowcode](https://corgi-lowcode.vercel.app/)
+* 🍟 projects： [Corgi代码生成器](https://corgi-lowcode.vercel.app/)
 
 
 
