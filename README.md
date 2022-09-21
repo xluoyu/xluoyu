@@ -12,7 +12,7 @@
 
 * 🍰 Email: llzz0895@163.com
 
-* 🍟 projects： [Corgi代码生成器](https://corgi-lowcode.vercel.app/)
+* 🍟 projects： [Corgi-ICode](https://corgi-icode.netlify.app/)
 
 
 
