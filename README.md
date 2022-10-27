@@ -8,7 +8,7 @@
 
 * 🍗 You can try to contact me, but I may not find it.
 
-* 🍪 Wechat: moyu_12138
+* 🍪 Wechat: moyu_12138（加好友时请备注）
 
 * 🍰 Email: llzz0895@163.com
 
